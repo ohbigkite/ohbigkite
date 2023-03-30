@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 🎓 Dankook University , Information Statistics (2020.03 ~ )
 - 💊 [SK mysuni] Suni C 1st (2022.07 ~ 2022.11) 
 - 👸 [Secret gondew] Dankook Bike Rental Amount Prediction AI Contest Excellence Prize🎖️
-      Participated in SW-centered university joint AI contest, 2022 BigContest Data Anlaysis League Futures (2022) 
+- 👸 [Secret gondew] Participated in SW-centered university joint AI contest & 2022 BigContest Data Anlaysis League Futures (2022) 
 - 🐘 [BOAZ] 20th, Data Analysis, Data Visualization (2023.02 ~ )
 
 
