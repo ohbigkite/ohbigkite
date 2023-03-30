@@ -41,6 +41,17 @@ Here are some ideas to get you started:
 - Computer Specialist in Spreadsheet & Database Level-1
 ...
 
+
+### Tech Stack
+- Python
+- R
+- SQL
+- C
+- SPSS
+- SAS
+...
+
+
 ### What I Like
 
 - 🎞️ Movies / Dramas
