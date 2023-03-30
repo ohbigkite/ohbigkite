@@ -43,13 +43,7 @@ Here are some ideas to get you started:
 
 
 ### Tech Stack
-- Python
-- R
-- SQL
-- C
-- SPSS
-- SAS
-...
+- Python / R / SQL / C / SPSS / SAS / ...
 
 
 ### What I Like
