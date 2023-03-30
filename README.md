@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 ### Experience
 
 - 🎓 Dankook University , Information Statistics (2020.03 ~ )
-- 💊 [SK mysuni] Suni C 1st (2022.07 ~ 2022.11) 
+- 👩‍🏫 [Statistics Training Institute] 2022 College Student Statistics Education Volunteerings
+- 💊 [SK mysuni] Suni C 1st, Social problem solving project, Data Analysis project, BM design project...(2022.07 ~ 2022.11) 
 - 👸 [Secret gondew] Dankook Bike Rental Amount Prediction AI Contest Excellence Prize🎖️
 - 👸 [Secret gondew] Participated in SW-centered university joint AI contest & 2022 BigContest Data Anlaysis League Futures (2022) 
 - 🐘 [BOAZ] 20th, Data Analysis, Data Visualization (2023.02 ~ )
