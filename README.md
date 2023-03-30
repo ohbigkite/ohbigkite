@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 # Ohbigkite 😉
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaesoo9410&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/ohbigkite) 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-9c38d1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ohbigkite) 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fohbigkite&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/ohbigkite) 
+
 
 ### Who Am I
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning `Data Science' , 'Machine Learning', 'Deep learning', 'AI' ...
 - 🥇 I majored in Statistics
-<!-- 🚅 My hometown is Gimhae, Gyeongsangnam-do in Korea --!>
+
 
 ### Experience
 
@@ -35,10 +35,10 @@ Here are some ideas to get you started:
 
 
 ### Certificate
--
--
--
--
+- SQLD
+- ADsP
+- Computer Specialist in Spreadsheet & Database Level-1
+...
 
 ### What I Like
 
