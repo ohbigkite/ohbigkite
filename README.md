@@ -46,8 +46,10 @@ Here are some ideas to get you started:
 - Python / R / SQL / C / SPSS / SAS / ...
 
 
-### What I Like
+### I love...
 
-- 🎞️ Movies / Dramas
-- 📚 Books
+- 👩‍💻 Data Science ^^
 - 🎼 Music ~
+- 🎞️ Movies / Dramas 
+- 📚 Books ^^
+
