@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 ### Who Am I
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=oty0906">
-
 - 🌱 I’m currently learning `Data Science' , 'Machine Learning', 'Deep learning', 'AI' ...
 - 🥇 I majored in Statistics
 
@@ -30,8 +28,10 @@ Here are some ideas to get you started:
 ### Experience
 
 - 🎓 Dankook University , Information Statistics (2020.03 ~ )
-- 💊 
-- 🌍 BOAZ 20th, Data Analysis, Data Visualization (2023.02 ~ )
+- 💊 [SK mysuni] Suni C 1st (2022.07 ~ 2022.11) 
+- 👸 [Secret gondew] Dankook Bike Rental Amount Prediction AI Contest Excellence Prize🎖️
+      Participated in SW-centered university joint AI contest, 2022 BigContest Data Anlaysis League Futures (2022) 
+- 🐘 [BOAZ] 20th, Data Analysis, Data Visualization (2023.02 ~ )
 
 
 ### Certificate
@@ -44,3 +44,4 @@ Here are some ideas to get you started:
 
 - 🎞️ Movies / Dramas
 - 📚 Books
+- 🎼 Music ~
