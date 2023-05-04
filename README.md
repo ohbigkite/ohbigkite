@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### Who Am I
 
-- 🌱 I’m currently learning `Data Science' , 'Machine Learning', 'Deep learning', 'AI' ...
+- 🌱 I’m currently learning `Data Science' , 'Machine Learning', 'Deep learning', 'AI', 'Data Visualization' ...
 - 🥇 I majored in Statistics
 
 
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 
 ### Tech Stack
-- Python / R / SQL / C / SPSS / SAS / ...
+- Python / R / SQL / Tableau / C / SPSS / SAS / ...
 
 
 ### I love...
