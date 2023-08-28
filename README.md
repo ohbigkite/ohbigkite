@@ -48,7 +48,8 @@ Here are some ideas to get you started:
 
 ### I love...
 
-- 👩‍💻 Data Science, Analysis
+- 👩‍💻 Data Science, Analysis, AI
+- 🥰 Recsys 
 - 🎼 Music ~
 - 🎞️ Movies / Dramas 
 - 📚 Books 
