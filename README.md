@@ -39,11 +39,13 @@ Here are some ideas to get you started:
 ### Experience
 
 - 🎓 Dankook University , Information Statistics (2020.03 ~ )
-- 💊 [SK mysuni] Suni C 1st, Social problem solving project Top 5, Data Analysis project, BM design project...(2022.07 ~ 2022.11) 
+- 💊 [SK mysuni] Suni C 1st, Social problem solving project Top 5, Data Analysis project, BM design project...
+-     (2022.07 ~ 2022.11) 
 - 👸 [Secret gondew] Dankook Bike Rental Amount Prediction AI Contest Excellence Prize🎖️
 - 👸 [Secret gondew] Participated in 2022 BigContest Data Anlaysis League Futures (2022) 
 - 🐘 [BOAZ] 20th, Data Analysis, Data Visualization (2023.02 ~ )
 - 🛑 [LG Aimers] 3기, AI 교육, 온라인 채널 제품 판매량 예측 해커톤 상위 9% (2023.07 ~ 2023.08 )
+- 🍀 [Naver BoostCamp AI Tech] 6기, NLP (2023.11 ~ )
 
 
 ### Certificate
