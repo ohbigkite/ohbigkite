@@ -25,14 +25,18 @@ Here are some ideas to get you started:
 - 🥇 I majored in Statistics
 
 
+### Tech Stack
+- <img src="https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/Pytorch-#EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/><img src="https://img.shields.io/badge/MySQL-#4479A1?style=flat-square&logo=MySQL&logoColor=white"/><img src="https://img.shields.io/badge/Tableau-#E97627?style=flat-square&logo=Tableau&logoColor=white"/><img src="https://img.shields.io/badge/C-#A8B9CC?style=flat-square&logo=C&logoColor=white"/><img src="https://img.shields.io/badge/C-#181717?style=flat-square&logo=Github&logoColor=white"/>
+
+
 ### Experience
 
 - 🎓 Dankook University , Information Statistics (2020.03 ~ )
-- 👩‍🏫 [Statistics Training Institute] 2022 College Student Statistics Education Volunteerings
 - 💊 [SK mysuni] Suni C 1st, Social problem solving project, Data Analysis project, BM design project...(2022.07 ~ 2022.11) 
 - 👸 [Secret gondew] Dankook Bike Rental Amount Prediction AI Contest Excellence Prize🎖️
-- 👸 [Secret gondew] Participated in SW-centered university joint AI contest & 2022 BigContest Data Anlaysis League Futures (2022) 
+- 👸 [Secret gondew] Participated in 2022 BigContest Data Anlaysis League Futures (2022) 
 - 🐘 [BOAZ] 20th, Data Analysis, Data Visualization (2023.02 ~ )
+- 🛑 [LG Aimers] 3기, AI 교육, 온라인 채널 제품 판매량 예측 해커톤 상위 9% (2023.07 ~ 2023.08 )
 
 
 ### Certificate
@@ -42,15 +46,5 @@ Here are some ideas to get you started:
 ...
 
 
-### Tech Stack
-- Python / R / SQL / Tableau / C / SPSS / SAS / ...
 
-
-### I love...
-
-- 👩‍💻 Data Science, Analysis, AI
-- 🥰 Recsys 
-- 🎼 Music ~
-- 🎞️ Movies / Dramas 
-- 📚 Books 
 
